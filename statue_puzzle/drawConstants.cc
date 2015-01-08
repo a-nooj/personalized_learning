@@ -1,0 +1,9 @@
+const double WIDTH_INCREMENT = 0.05;
+const double CHAR_OFFSET = 0.65;
+const double CHAR_WIDTH = 0.56;
+const double MAP_OFFSET = 6.0;
+const double SQUARE_SIZE = 1;
+const double MAP_HEIGHT = 21;
+const double MAP_WIDTH = 30;
+const double SCREEN_WIDTH = MAP_WIDTH;
+const double SCREEN_HEIGHT = MAP_HEIGHT + MAP_OFFSET + 3;

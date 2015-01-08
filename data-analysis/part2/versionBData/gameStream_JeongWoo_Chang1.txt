@@ -1,0 +1,2387 @@
+ACTION 0
+17,7,27,north,south,north
+ACTION 1
+MOVES north
+TIMESTAMP: 19000
+CRUSHED BY STATUE
+prevSquaresVisited: 30 squaresVisited: 1
+squaresSince: 0 diff: -29
+17,7,27,north,south,north
+ACTION 2
+TURNS east
+TIMESTAMP: 32000
+17,7,27,east,west,east
+ACTION 3
+TURNS north
+TIMESTAMP: 35000
+17,7,27,north,south,north
+ACTION 4
+MOVES north
+TIMESTAMP: 39000
+CRUSHED BY STATUE
+prevSquaresVisited: 30 squaresVisited: 1
+squaresSince: 0 diff: -29
+17,7,27,north,south,north
+ACTION 5
+TURNS east
+TIMESTAMP: 43000
+17,7,27,east,west,east
+ACTION 6
+MOVES east
+TIMESTAMP: 44000
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 2
+squaresSince: 1 diff: -28
+18,6,27,east,west,east
+ACTION 7
+TURNS north
+TIMESTAMP: 45000
+18,6,27,north,south,north
+ACTION 8
+MOVES north
+TIMESTAMP: 47000
+prevSquaresVisited: 30 squaresVisited: 3
+squaresSince: 2 diff: -27
+13,11,22,north,south,north
+ACTION 9
+TURNS west
+TIMESTAMP: 62000
+13,11,22,west,east,west
+ACTION 10
+TURNS south
+TIMESTAMP: 62000
+13,11,22,south,north,south
+ACTION 11
+TURNS east
+TIMESTAMP: 63000
+13,11,22,east,west,east
+ACTION 12
+MOVES east
+TIMESTAMP: 63000
+prevSquaresVisited: 30 squaresVisited: 4
+squaresSince: 3 diff: -26
+14,10,23,east,west,east
+ACTION 13
+TURNS north
+TIMESTAMP: 65000
+14,10,23,north,south,north
+ACTION 14
+MOVES north
+TIMESTAMP: 66000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 5
+squaresSince: 4 diff: -25
+9,10,18,north,south,north
+ACTION 15
+TURNS east
+TIMESTAMP: 69000
+9,10,18,east,west,east
+ACTION 16
+TURNS south
+TIMESTAMP: 69000
+9,10,18,south,north,south
+ACTION 17
+TURNS west
+TIMESTAMP: 70000
+9,10,18,west,east,west
+ACTION 18
+MOVES west
+TIMESTAMP: 71000
+prevSquaresVisited: 30 squaresVisited: 6
+squaresSince: 5 diff: -24
+8,11,17,west,east,west
+ACTION 19
+TURNS south
+TIMESTAMP: 73000
+8,11,17,south,north,south
+ACTION 20
+TURNS east
+TIMESTAMP: 80000
+8,11,17,east,west,east
+ACTION 21
+MOVES east
+TIMESTAMP: 82000
+prevSquaresVisited: 30 squaresVisited: 6
+squaresSince: 5 diff: -24
+9,10,18,east,west,east
+ACTION 22
+TURNS north
+TIMESTAMP: 83000
+9,10,18,north,south,north
+ACTION 23
+TURNS west
+TIMESTAMP: 83000
+9,10,18,west,east,west
+ACTION 24
+MOVES west
+TIMESTAMP: 84000
+prevSquaresVisited: 30 squaresVisited: 6
+squaresSince: 5 diff: -24
+8,11,17,west,east,west
+ACTION 25
+TURNS south
+TIMESTAMP: 85000
+8,11,17,south,north,south
+ACTION 26
+MOVES south
+TIMESTAMP: 88000
+prevSquaresVisited: 30 squaresVisited: 6
+squaresSince: 5 diff: -24
+13,6,22,south,north,south
+ACTION 27
+TURNS east
+TIMESTAMP: 91000
+13,6,22,east,west,east
+ACTION 28
+MOVES east
+TIMESTAMP: 92000
+prevSquaresVisited: 30 squaresVisited: 6
+squaresSince: 5 diff: -24
+14,5,23,east,west,east
+ACTION 29
+TURNS north
+TIMESTAMP: 93000
+14,5,23,north,south,north
+ACTION 30
+MOVES north
+TIMESTAMP: 94000
+prevSquaresVisited: 30 squaresVisited: 6
+squaresSince: 5 diff: -24
+9,10,18,north,south,north
+ACTION 31
+MOVES north
+TIMESTAMP: 94000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 7
+squaresSince: 6 diff: -23
+4,10,13,north,south,north
+ACTION 32
+TURNS west
+TIMESTAMP: 96000
+4,10,13,west,east,west
+ACTION 33
+MOVES west
+TIMESTAMP: 97000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+3,11,12,west,east,west
+ACTION 34
+TURNS south
+TIMESTAMP: 99000
+3,11,12,south,north,south
+ACTION 35
+TURNS east
+TIMESTAMP: 100000
+3,11,12,east,west,east
+ACTION 36
+MOVES east
+TIMESTAMP: 102000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+4,10,13,east,west,east
+ACTION 37
+MOVES east
+TIMESTAMP: 103000
+TRIES TO MOVE OFFSCREEN
+4,10,13,east,west,east
+ACTION 38
+TURNS south
+TIMESTAMP: 105000
+4,10,13,south,north,south
+ACTION 39
+TURNS west
+TIMESTAMP: 106000
+4,10,13,west,east,west
+ACTION 40
+MOVES west
+TIMESTAMP: 107000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+3,11,12,west,east,west
+ACTION 41
+TURNS south
+TIMESTAMP: 108000
+3,11,12,south,north,south
+ACTION 42
+MOVES south
+TIMESTAMP: 110000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+8,6,17,south,north,south
+ACTION 43
+TURNS west
+TIMESTAMP: 111000
+8,6,17,west,east,west
+ACTION 44
+TURNS north
+TIMESTAMP: 113000
+8,6,17,north,south,north
+ACTION 45
+MOVES north
+TIMESTAMP: 115000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+3,11,12,north,south,north
+ACTION 46
+TURNS west
+TIMESTAMP: 116000
+3,11,12,west,east,west
+ACTION 47
+TURNS south
+TIMESTAMP: 117000
+3,11,12,south,north,south
+ACTION 48
+TURNS east
+TIMESTAMP: 118000
+3,11,12,east,west,east
+ACTION 49
+MOVES east
+TIMESTAMP: 119000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+4,10,13,east,west,east
+ACTION 50
+TURNS north
+TIMESTAMP: 120000
+4,10,13,north,south,north
+ACTION 51
+TURNS west
+TIMESTAMP: 121000
+4,10,13,west,east,west
+ACTION 52
+TURNS south
+TIMESTAMP: 122000
+4,10,13,south,north,south
+ACTION 53
+TURNS east
+TIMESTAMP: 124000
+4,10,13,east,west,east
+ACTION 54
+TURNS north
+TIMESTAMP: 124000
+4,10,13,north,south,north
+ACTION 55
+MOVES north
+TIMESTAMP: 126000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 56
+TURNS east
+TIMESTAMP: 128000
+4,10,13,east,west,east
+ACTION 57
+TURNS south
+TIMESTAMP: 129000
+4,10,13,south,north,south
+ACTION 58
+MOVES south
+TIMESTAMP: 131000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+9,5,18,south,north,south
+ACTION 59
+TURNS east
+TIMESTAMP: 133000
+9,5,18,east,west,east
+ACTION 60
+TURNS north
+TIMESTAMP: 134000
+9,5,18,north,south,north
+ACTION 61
+TURNS west
+TIMESTAMP: 136000
+9,5,18,west,east,west
+ACTION 62
+MOVES west
+TIMESTAMP: 139000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+8,6,17,west,east,west
+ACTION 63
+TURNS south
+TIMESTAMP: 142000
+8,6,17,south,north,south
+ACTION 64
+TURNS east
+TIMESTAMP: 144000
+8,6,17,east,west,east
+ACTION 65
+TURNS north
+TIMESTAMP: 144000
+8,6,17,north,south,north
+ACTION 66
+MOVES north
+TIMESTAMP: 146000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+3,11,12,north,south,north
+ACTION 67
+TURNS west
+TIMESTAMP: 147000
+3,11,12,west,east,west
+ACTION 68
+MOVES west
+TIMESTAMP: 148000
+TRIES TO MOVE OFFSCREEN
+3,11,12,west,east,west
+ACTION 69
+TURNS south
+TIMESTAMP: 150000
+3,11,12,south,north,south
+ACTION 70
+TURNS east
+TIMESTAMP: 150000
+3,11,12,east,west,east
+ACTION 71
+MOVES east
+TIMESTAMP: 151000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+4,10,13,east,west,east
+ACTION 72
+TURNS north
+TIMESTAMP: 152000
+4,10,13,north,south,north
+ACTION 73
+MOVES north
+TIMESTAMP: 152000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 74
+MOVES north
+TIMESTAMP: 153000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 75
+MOVES north
+TIMESTAMP: 154000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 76
+TURNS east
+TIMESTAMP: 155000
+4,10,13,east,west,east
+ACTION 77
+TURNS south
+TIMESTAMP: 156000
+4,10,13,south,north,south
+ACTION 78
+MOVES south
+TIMESTAMP: 157000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+9,5,18,south,north,south
+ACTION 79
+TURNS east
+TIMESTAMP: 159000
+9,5,18,east,west,east
+ACTION 80
+TURNS north
+TIMESTAMP: 159000
+9,5,18,north,south,north
+ACTION 81
+MOVES north
+TIMESTAMP: 160000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+4,10,13,north,south,north
+ACTION 82
+MOVES north
+TIMESTAMP: 160000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 83
+TURNS west
+TIMESTAMP: 161000
+4,10,13,west,east,west
+ACTION 84
+MOVES west
+TIMESTAMP: 162000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+3,11,12,west,east,west
+ACTION 85
+TURNS south
+TIMESTAMP: 162000
+3,11,12,south,north,south
+ACTION 86
+MOVES south
+TIMESTAMP: 163000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+8,6,17,south,north,south
+ACTION 87
+MOVES south
+TIMESTAMP: 164000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+13,1,22,south,north,south
+ACTION 88
+MOVES south
+TIMESTAMP: 165000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+18,1,27,south,north,south
+ACTION 89
+TURNS east
+TIMESTAMP: 166000
+18,1,27,east,west,east
+ACTION 90
+TURNS north
+TIMESTAMP: 166000
+18,1,27,north,south,north
+ACTION 91
+MOVES north
+TIMESTAMP: 167000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+13,6,22,north,south,north
+ACTION 92
+MOVES north
+TIMESTAMP: 168000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+8,11,17,north,south,north
+ACTION 93
+TURNS east
+TIMESTAMP: 169000
+8,11,17,east,west,east
+ACTION 94
+MOVES east
+TIMESTAMP: 170000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+9,10,18,east,west,east
+ACTION 95
+TURNS north
+TIMESTAMP: 171000
+9,10,18,north,south,north
+ACTION 96
+MOVES north
+TIMESTAMP: 172000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+4,10,13,north,south,north
+ACTION 97
+MOVES north
+TIMESTAMP: 173000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 98
+TURNS west
+TIMESTAMP: 175000
+4,10,13,west,east,west
+ACTION 99
+MOVES west
+TIMESTAMP: 175000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+3,11,12,west,east,west
+ACTION 100
+TURNS south
+TIMESTAMP: 178000
+3,11,12,south,north,south
+ACTION 101
+TURNS east
+TIMESTAMP: 178000
+3,11,12,east,west,east
+ACTION 102
+MOVES east
+TIMESTAMP: 179000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+4,10,13,east,west,east
+ACTION 103
+TURNS north
+TIMESTAMP: 180000
+4,10,13,north,south,north
+ACTION 104
+MOVES north
+TIMESTAMP: 180000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 105
+MOVES north
+TIMESTAMP: 181000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 106
+MOVES north
+TIMESTAMP: 181000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 107
+TURNS east
+TIMESTAMP: 182000
+4,10,13,east,west,east
+ACTION 108
+TURNS south
+TIMESTAMP: 184000
+4,10,13,south,north,south
+ACTION 109
+TURNS west
+TIMESTAMP: 185000
+4,10,13,west,east,west
+ACTION 110
+MOVES west
+TIMESTAMP: 187000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+3,11,12,west,east,west
+ACTION 111
+TURNS south
+TIMESTAMP: 188000
+3,11,12,south,north,south
+ACTION 112
+TURNS east
+TIMESTAMP: 189000
+3,11,12,east,west,east
+ACTION 113
+TURNS north
+TIMESTAMP: 189000
+3,11,12,north,south,north
+ACTION 114
+MOVES north
+TIMESTAMP: 191000
+TRIES TO MOVE OFFSCREEN
+3,11,12,north,south,north
+ACTION 115
+TURNS west
+TIMESTAMP: 192000
+3,11,12,west,east,west
+ACTION 116
+TURNS south
+TIMESTAMP: 193000
+3,11,12,south,north,south
+ACTION 117
+TURNS east
+TIMESTAMP: 194000
+3,11,12,east,west,east
+ACTION 118
+MOVES east
+TIMESTAMP: 195000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+4,10,13,east,west,east
+ACTION 119
+TURNS north
+TIMESTAMP: 196000
+4,10,13,north,south,north
+ACTION 120
+MOVES north
+TIMESTAMP: 197000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 121
+MOVES north
+TIMESTAMP: 198000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 122
+TURNS west
+TIMESTAMP: 199000
+4,10,13,west,east,west
+ACTION 123
+TURNS south
+TIMESTAMP: 200000
+4,10,13,south,north,south
+ACTION 124
+MOVES south
+TIMESTAMP: 201000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+9,5,18,south,north,south
+ACTION 125
+TURNS east
+TIMESTAMP: 202000
+9,5,18,east,west,east
+ACTION 126
+TURNS north
+TIMESTAMP: 202000
+9,5,18,north,south,north
+ACTION 127
+TURNS west
+TIMESTAMP: 203000
+9,5,18,west,east,west
+ACTION 128
+MOVES west
+TIMESTAMP: 205000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+8,6,17,west,east,west
+ACTION 129
+TURNS south
+TIMESTAMP: 207000
+8,6,17,south,north,south
+ACTION 130
+TURNS east
+TIMESTAMP: 208000
+8,6,17,east,west,east
+ACTION 131
+TURNS north
+TIMESTAMP: 209000
+8,6,17,north,south,north
+ACTION 132
+TURNS west
+TIMESTAMP: 209000
+8,6,17,west,east,west
+ACTION 133
+TURNS south
+TIMESTAMP: 209000
+8,6,17,south,north,south
+ACTION 134
+MOVES south
+TIMESTAMP: 210000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+13,1,22,south,north,south
+ACTION 135
+TURNS east
+TIMESTAMP: 211000
+13,1,22,east,west,east
+ACTION 136
+MOVES east
+TIMESTAMP: 212000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+14,0,23,east,west,east
+ACTION 137
+TURNS north
+TIMESTAMP: 213000
+14,0,23,north,south,north
+ACTION 138
+MOVES north
+TIMESTAMP: 214000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+9,5,18,north,south,north
+ACTION 139
+TURNS west
+TIMESTAMP: 216000
+9,5,18,west,east,west
+ACTION 140
+TURNS south
+TIMESTAMP: 218000
+9,5,18,south,north,south
+ACTION 141
+TURNS east
+TIMESTAMP: 219000
+9,5,18,east,west,east
+ACTION 142
+TURNS north
+TIMESTAMP: 220000
+9,5,18,north,south,north
+ACTION 143
+MOVES north
+TIMESTAMP: 221000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+4,10,13,north,south,north
+ACTION 144
+TURNS west
+TIMESTAMP: 222000
+4,10,13,west,east,west
+ACTION 145
+MOVES west
+TIMESTAMP: 223000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+3,11,12,west,east,west
+ACTION 146
+TURNS south
+TIMESTAMP: 225000
+3,11,12,south,north,south
+ACTION 147
+TURNS east
+TIMESTAMP: 226000
+3,11,12,east,west,east
+ACTION 148
+MOVES east
+TIMESTAMP: 226000
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+4,10,13,east,west,east
+ACTION 149
+MOVES east
+TIMESTAMP: 227000
+TRIES TO MOVE OFFSCREEN
+4,10,13,east,west,east
+ACTION 150
+TURNS north
+TIMESTAMP: 228000
+4,10,13,north,south,north
+ACTION 151
+MOVES north
+TIMESTAMP: 230000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 152
+MOVES north
+TIMESTAMP: 230000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 153
+RESETS 
+TIMESTAMP: 232000
+17,7,27,north,south,north
+ACTION 154
+MOVES north
+TIMESTAMP: 236000
+CRUSHED BY STATUE
+prevSquaresVisited: 30 squaresVisited: 0
+squaresSince: 7 diff: -30
+17,7,27,north,south,north
+ACTION 155
+TURNS east
+TIMESTAMP: 238000
+17,7,27,east,west,east
+ACTION 156
+TURNS south
+TIMESTAMP: 240000
+17,7,27,south,north,south
+ACTION 157
+TURNS west
+TIMESTAMP: 240000
+17,7,27,west,east,west
+ACTION 158
+TURNS north
+TIMESTAMP: 241000
+17,7,27,north,south,north
+ACTION 159
+MOVES north
+TIMESTAMP: 244000
+CRUSHED BY STATUE
+prevSquaresVisited: 30 squaresVisited: 0
+squaresSince: 7 diff: -30
+17,7,27,north,south,north
+ACTION 160
+TURNS west
+TIMESTAMP: 246000
+17,7,27,west,east,west
+ACTION 161
+TURNS north
+TIMESTAMP: 248000
+17,7,27,north,south,north
+ACTION 162
+TURNS east
+TIMESTAMP: 248000
+17,7,27,east,west,east
+ACTION 163
+TURNS south
+TIMESTAMP: 249000
+17,7,27,south,north,south
+ACTION 164
+TURNS west
+TIMESTAMP: 251000
+17,7,27,west,east,west
+ACTION 165
+TURNS north
+TIMESTAMP: 253000
+17,7,27,north,south,north
+ACTION 166
+TURNS east
+TIMESTAMP: 260000
+17,7,27,east,west,east
+ACTION 167
+TURNS south
+TIMESTAMP: 261000
+17,7,27,south,north,south
+ACTION 168
+TURNS west
+TIMESTAMP: 262000
+17,7,27,west,east,west
+ACTION 169
+TURNS north
+TIMESTAMP: 263000
+17,7,27,north,south,north
+ACTION 170
+MOVES north
+TIMESTAMP: 264000
+CRUSHED BY STATUE
+prevSquaresVisited: 30 squaresVisited: 0
+squaresSince: 7 diff: -30
+17,7,27,north,south,north
+ACTION 171
+TURNS east
+TIMESTAMP: 265000
+17,7,27,east,west,east
+ACTION 172
+MOVES east
+TIMESTAMP: 266000
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 1
+squaresSince: 8 diff: -29
+18,6,27,east,west,east
+ACTION 173
+MOVES east
+TIMESTAMP: 271000
+TRIES TO MOVE OFFSCREEN
+18,6,27,east,west,east
+ACTION 174
+TURNS south
+TIMESTAMP: 278000
+18,6,27,south,north,south
+ACTION 175
+TURNS west
+TIMESTAMP: 278000
+18,6,27,west,east,west
+ACTION 176
+TURNS north
+TIMESTAMP: 279000
+18,6,27,north,south,north
+ACTION 177
+MOVES north
+TIMESTAMP: 285000
+prevSquaresVisited: 30 squaresVisited: 2
+squaresSince: 9 diff: -28
+13,11,22,north,south,north
+ACTION 178
+TURNS west
+TIMESTAMP: 286000
+13,11,22,west,east,west
+ACTION 179
+TURNS south
+TIMESTAMP: 287000
+13,11,22,south,north,south
+ACTION 180
+TURNS east
+TIMESTAMP: 287000
+13,11,22,east,west,east
+ACTION 181
+MOVES east
+TIMESTAMP: 287000
+prevSquaresVisited: 30 squaresVisited: 3
+squaresSince: 10 diff: -27
+14,10,23,east,west,east
+ACTION 182
+TURNS north
+TIMESTAMP: 289000
+14,10,23,north,south,north
+ACTION 183
+MOVES north
+TIMESTAMP: 291000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 4
+squaresSince: 11 diff: -26
+9,10,18,north,south,north
+ACTION 184
+MOVES north
+TIMESTAMP: 291000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 5
+squaresSince: 12 diff: -25
+4,10,13,north,south,north
+ACTION 185
+TURNS west
+TIMESTAMP: 293000
+4,10,13,west,east,west
+ACTION 186
+TURNS south
+TIMESTAMP: 294000
+4,10,13,south,north,south
+ACTION 187
+TURNS east
+TIMESTAMP: 294000
+4,10,13,east,west,east
+ACTION 188
+MOVES east
+TIMESTAMP: 295000
+TRIES TO MOVE OFFSCREEN
+4,10,13,east,west,east
+ACTION 189
+TURNS north
+TIMESTAMP: 297000
+4,10,13,north,south,north
+ACTION 190
+TURNS west
+TIMESTAMP: 297000
+4,10,13,west,east,west
+ACTION 191
+TURNS south
+TIMESTAMP: 299000
+4,10,13,south,north,south
+ACTION 192
+TURNS east
+TIMESTAMP: 300000
+4,10,13,east,west,east
+ACTION 193
+TURNS north
+TIMESTAMP: 300000
+4,10,13,north,south,north
+ACTION 194
+TURNS west
+TIMESTAMP: 301000
+4,10,13,west,east,west
+ACTION 195
+MOVES west
+TIMESTAMP: 302000
+prevSquaresVisited: 30 squaresVisited: 6
+squaresSince: 13 diff: -24
+3,11,12,west,east,west
+ACTION 196
+TURNS south
+TIMESTAMP: 304000
+3,11,12,south,north,south
+ACTION 197
+MOVES south
+TIMESTAMP: 307000
+prevSquaresVisited: 30 squaresVisited: 7
+squaresSince: 14 diff: -23
+8,6,17,south,north,south
+ACTION 198
+TURNS east
+TIMESTAMP: 310000
+8,6,17,east,west,east
+ACTION 199
+MOVES east
+TIMESTAMP: 310000
+prevSquaresVisited: 30 squaresVisited: 7
+squaresSince: 14 diff: -23
+HINT GIVEN
+9,5,18,east,west,east
+ACTION 200
+TURNS north
+TIMESTAMP: 318000
+9,5,18,north,south,north
+ACTION 201
+MOVES north
+TIMESTAMP: 320000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+4,10,13,north,south,north
+ACTION 202
+MOVES north
+TIMESTAMP: 322000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 203
+TURNS west
+TIMESTAMP: 324000
+4,10,13,west,east,west
+ACTION 204
+MOVES west
+TIMESTAMP: 325000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+3,11,12,west,east,west
+ACTION 205
+TURNS south
+TIMESTAMP: 326000
+3,11,12,south,north,south
+ACTION 206
+MOVES south
+TIMESTAMP: 327000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+8,6,17,south,north,south
+ACTION 207
+TURNS east
+TIMESTAMP: 328000
+8,6,17,east,west,east
+ACTION 208
+MOVES east
+TIMESTAMP: 328000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+9,5,18,east,west,east
+ACTION 209
+TURNS north
+TIMESTAMP: 329000
+9,5,18,north,south,north
+ACTION 210
+MOVES north
+TIMESTAMP: 331000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+4,10,13,north,south,north
+ACTION 211
+TURNS west
+TIMESTAMP: 333000
+4,10,13,west,east,west
+ACTION 212
+TURNS south
+TIMESTAMP: 333000
+4,10,13,south,north,south
+ACTION 213
+TURNS east
+TIMESTAMP: 334000
+4,10,13,east,west,east
+ACTION 214
+TURNS north
+TIMESTAMP: 335000
+4,10,13,north,south,north
+ACTION 215
+TURNS west
+TIMESTAMP: 335000
+4,10,13,west,east,west
+ACTION 216
+MOVES west
+TIMESTAMP: 336000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+3,11,12,west,east,west
+ACTION 217
+TURNS south
+TIMESTAMP: 338000
+3,11,12,south,north,south
+ACTION 218
+MOVES south
+TIMESTAMP: 338000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+8,6,17,south,north,south
+ACTION 219
+MOVES south
+TIMESTAMP: 341000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+13,1,22,south,north,south
+ACTION 220
+TURNS east
+TIMESTAMP: 342000
+13,1,22,east,west,east
+ACTION 221
+MOVES east
+TIMESTAMP: 342000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+14,0,23,east,west,east
+ACTION 222
+TURNS north
+TIMESTAMP: 344000
+14,0,23,north,south,north
+ACTION 223
+MOVES north
+TIMESTAMP: 344000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+9,5,18,north,south,north
+ACTION 224
+MOVES north
+TIMESTAMP: 345000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+4,10,13,north,south,north
+ACTION 225
+MOVES north
+TIMESTAMP: 346000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 226
+TURNS west
+TIMESTAMP: 347000
+4,10,13,west,east,west
+ACTION 227
+MOVES west
+TIMESTAMP: 348000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+3,11,12,west,east,west
+ACTION 228
+TURNS south
+TIMESTAMP: 350000
+3,11,12,south,north,south
+ACTION 229
+TURNS east
+TIMESTAMP: 350000
+3,11,12,east,west,east
+ACTION 230
+MOVES east
+TIMESTAMP: 352000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+4,10,13,east,west,east
+ACTION 231
+TURNS north
+TIMESTAMP: 352000
+4,10,13,north,south,north
+ACTION 232
+MOVES north
+TIMESTAMP: 353000
+TRIES TO MOVE OFFSCREEN
+4,10,13,north,south,north
+ACTION 233
+TURNS west
+TIMESTAMP: 354000
+4,10,13,west,east,west
+ACTION 234
+TURNS south
+TIMESTAMP: 354000
+4,10,13,south,north,south
+ACTION 235
+MOVES south
+TIMESTAMP: 355000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+9,5,18,south,north,south
+ACTION 236
+MOVES south
+TIMESTAMP: 356000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+14,0,23,south,north,south
+ACTION 237
+TURNS east
+TIMESTAMP: 357000
+14,0,23,east,west,east
+ACTION 238
+TURNS north
+TIMESTAMP: 357000
+14,0,23,north,south,north
+ACTION 239
+TURNS west
+TIMESTAMP: 358000
+14,0,23,west,east,west
+ACTION 240
+MOVES west
+TIMESTAMP: 359000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 0 diff: 0
+13,1,22,west,east,west
+ACTION 241
+MOVES west
+TIMESTAMP: 360000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 7 squaresVisited: 8
+squaresSince: 1 diff: 1
+12,1,21,west,east,west
+ACTION 242
+MOVES west
+TIMESTAMP: 361000
+TOP STATUE CAN'T MOVE OFF SCREEN
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 7 squaresVisited: 9
+squaresSince: 2 diff: 2
+11,1,21,west,east,west
+ACTION 243
+TURNS south
+TIMESTAMP: 362000
+11,1,21,south,north,south
+ACTION 244
+MOVES south
+TIMESTAMP: 363000
+TOP STATUE CAN'T MOVE OFF SCREEN
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 7 squaresVisited: 10
+squaresSince: 3 diff: 3
+16,1,21,south,north,south
+ACTION 245
+TURNS east
+TIMESTAMP: 364000
+16,1,21,east,west,east
+ACTION 246
+MOVES east
+TIMESTAMP: 365000
+prevSquaresVisited: 7 squaresVisited: 11
+squaresSince: 4 diff: 4
+17,0,22,east,west,east
+ACTION 247
+MOVES east
+TIMESTAMP: 368000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 7 squaresVisited: 11
+squaresSince: 4 diff: 4
+18,0,23,east,west,east
+ACTION 248
+TURNS north
+TIMESTAMP: 369000
+18,0,23,north,south,north
+ACTION 249
+MOVES north
+TIMESTAMP: 369000
+prevSquaresVisited: 7 squaresVisited: 11
+squaresSince: 4 diff: 4
+13,5,18,north,south,north
+ACTION 250
+MOVES north
+TIMESTAMP: 370000
+prevSquaresVisited: 7 squaresVisited: 11
+squaresSince: 0 diff: 4
+8,10,13,north,south,north
+ACTION 251
+MOVES north
+TIMESTAMP: 370000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 7 squaresVisited: 11
+squaresSince: 0 diff: 4
+3,10,8,north,south,north
+ACTION 252
+TURNS west
+TIMESTAMP: 371000
+3,10,8,west,east,west
+ACTION 253
+TURNS south
+TIMESTAMP: 372000
+3,10,8,south,north,south
+ACTION 254
+TURNS east
+TIMESTAMP: 373000
+3,10,8,east,west,east
+ACTION 255
+MOVES east
+TIMESTAMP: 374000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 7 squaresVisited: 11
+squaresSince: 0 diff: 4
+4,10,9,east,west,east
+ACTION 256
+TURNS north
+TIMESTAMP: 376000
+4,10,9,north,south,north
+ACTION 257
+TURNS west
+TIMESTAMP: 377000
+4,10,9,west,east,west
+ACTION 258
+MOVES west
+TIMESTAMP: 379000
+prevSquaresVisited: 7 squaresVisited: 11
+squaresSince: 0 diff: 4
+3,11,8,west,east,west
+ACTION 259
+TURNS south
+TIMESTAMP: 380000
+3,11,8,south,north,south
+ACTION 260
+TURNS east
+TIMESTAMP: 380000
+3,11,8,east,west,east
+ACTION 261
+TURNS north
+TIMESTAMP: 382000
+3,11,8,north,south,north
+ACTION 262
+TURNS west
+TIMESTAMP: 383000
+3,11,8,west,east,west
+ACTION 263
+TURNS south
+TIMESTAMP: 383000
+3,11,8,south,north,south
+ACTION 264
+MOVES south
+TIMESTAMP: 385000
+MOVES INTO STATUE
+prevSquaresVisited: 7 squaresVisited: 11
+squaresSince: 0 diff: 4
+3,11,8,south,north,south
+ACTION 265
+TURNS east
+TIMESTAMP: 386000
+3,11,8,east,west,east
+ACTION 266
+MOVES east
+TIMESTAMP: 387000
+prevSquaresVisited: 7 squaresVisited: 11
+squaresSince: 0 diff: 4
+4,10,9,east,west,east
+ACTION 267
+TURNS north
+TIMESTAMP: 388000
+4,10,9,north,south,north
+ACTION 268
+TURNS west
+TIMESTAMP: 388000
+4,10,9,west,east,west
+ACTION 269
+TURNS south
+TIMESTAMP: 389000
+4,10,9,south,north,south
+ACTION 270
+TURNS east
+TIMESTAMP: 390000
+4,10,9,east,west,east
+ACTION 271
+TURNS north
+TIMESTAMP: 390000
+4,10,9,north,south,north
+ACTION 272
+RESETS 
+TIMESTAMP: 392000
+17,7,27,north,south,north
+ACTION 273
+TURNS east
+TIMESTAMP: 395000
+17,7,27,east,west,east
+ACTION 274
+MOVES east
+TIMESTAMP: 397000
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 7 squaresVisited: 1
+squaresSince: 1 diff: -6
+18,6,27,east,west,east
+ACTION 275
+TURNS north
+TIMESTAMP: 399000
+18,6,27,north,south,north
+ACTION 276
+MOVES north
+TIMESTAMP: 400000
+prevSquaresVisited: 7 squaresVisited: 2
+squaresSince: 2 diff: -5
+13,11,22,north,south,north
+ACTION 277
+TURNS west
+TIMESTAMP: 402000
+13,11,22,west,east,west
+ACTION 278
+TURNS south
+TIMESTAMP: 402000
+13,11,22,south,north,south
+ACTION 279
+TURNS east
+TIMESTAMP: 403000
+13,11,22,east,west,east
+ACTION 280
+MOVES east
+TIMESTAMP: 404000
+prevSquaresVisited: 7 squaresVisited: 3
+squaresSince: 3 diff: -4
+14,10,23,east,west,east
+ACTION 281
+TURNS north
+TIMESTAMP: 405000
+14,10,23,north,south,north
+ACTION 282
+MOVES north
+TIMESTAMP: 405000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 7 squaresVisited: 4
+squaresSince: 4 diff: -3
+9,10,18,north,south,north
+ACTION 283
+MOVES north
+TIMESTAMP: 406000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 7 squaresVisited: 5
+squaresSince: 5 diff: -2
+4,10,13,north,south,north
+ACTION 284
+TURNS west
+TIMESTAMP: 407000
+4,10,13,west,east,west
+ACTION 285
+TURNS south
+TIMESTAMP: 409000
+4,10,13,south,north,south
+ACTION 286
+TURNS east
+TIMESTAMP: 409000
+4,10,13,east,west,east
+ACTION 287
+MOVES east
+TIMESTAMP: 410000
+TRIES TO MOVE OFFSCREEN
+4,10,13,east,west,east
+ACTION 288
+TURNS north
+TIMESTAMP: 411000
+4,10,13,north,south,north
+ACTION 289
+TURNS west
+TIMESTAMP: 412000
+4,10,13,west,east,west
+ACTION 290
+MOVES west
+TIMESTAMP: 412000
+prevSquaresVisited: 7 squaresVisited: 6
+squaresSince: 6 diff: -1
+3,11,12,west,east,west
+ACTION 291
+TURNS south
+TIMESTAMP: 413000
+3,11,12,south,north,south
+ACTION 292
+TURNS east
+TIMESTAMP: 414000
+3,11,12,east,west,east
+ACTION 293
+MOVES east
+TIMESTAMP: 415000
+prevSquaresVisited: 7 squaresVisited: 6
+squaresSince: 6 diff: -1
+4,10,13,east,west,east
+ACTION 294
+TURNS north
+TIMESTAMP: 416000
+4,10,13,north,south,north
+ACTION 295
+TURNS west
+TIMESTAMP: 418000
+4,10,13,west,east,west
+ACTION 296
+MOVES west
+TIMESTAMP: 418000
+prevSquaresVisited: 7 squaresVisited: 6
+squaresSince: 6 diff: -1
+3,11,12,west,east,west
+ACTION 297
+TURNS south
+TIMESTAMP: 419000
+3,11,12,south,north,south
+ACTION 298
+MOVES south
+TIMESTAMP: 420000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 7 diff: 0
+8,6,17,south,north,south
+ACTION 299
+TURNS east
+TIMESTAMP: 424000
+8,6,17,east,west,east
+ACTION 300
+MOVES east
+TIMESTAMP: 424000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 7 diff: 0
+9,5,18,east,west,east
+ACTION 301
+TURNS north
+TIMESTAMP: 425000
+9,5,18,north,south,north
+ACTION 302
+MOVES north
+TIMESTAMP: 426000
+prevSquaresVisited: 7 squaresVisited: 7
+squaresSince: 7 diff: 0
+4,10,13,north,south,north
+ACTION 303
+TURNS west
+TIMESTAMP: 427000
+4,10,13,west,east,west
+ACTION 304
+RESETS 
+TIMESTAMP: 429000
+17,7,27,north,south,north
+ACTION 305
+TURNS east
+TIMESTAMP: 431000
+17,7,27,east,west,east
+ACTION 306
+MOVES east
+TIMESTAMP: 433000
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 7 squaresVisited: 1
+squaresSince: 8 diff: -6
+18,6,27,east,west,east
+ACTION 307
+TURNS north
+TIMESTAMP: 434000
+18,6,27,north,south,north
+ACTION 308
+MOVES north
+TIMESTAMP: 435000
+prevSquaresVisited: 7 squaresVisited: 2
+squaresSince: 9 diff: -5
+13,11,22,north,south,north
+ACTION 309
+TURNS west
+TIMESTAMP: 436000
+13,11,22,west,east,west
+ACTION 310
+TURNS south
+TIMESTAMP: 437000
+13,11,22,south,north,south
+ACTION 311
+RESETS 
+TIMESTAMP: 441000
+17,7,27,north,south,north
+ACTION 312
+TURNS east
+TIMESTAMP: 444000
+17,7,27,east,west,east
+ACTION 313
+TURNS south
+TIMESTAMP: 444000
+17,7,27,south,north,south
+ACTION 314
+MOVES south
+TIMESTAMP: 446000
+TOP STATUE CAN'T MOVE OFF SCREEN
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 7 squaresVisited: 1
+squaresSince: 10 diff: -6
+22,7,27,south,north,south
+ACTION 315
+TURNS west
+TIMESTAMP: 447000
+22,7,27,west,east,west
+ACTION 316
+TURNS north
+TIMESTAMP: 449000
+22,7,27,north,south,north
+ACTION 317
+TURNS east
+TIMESTAMP: 450000
+22,7,27,east,west,east
+ACTION 318
+MOVES east
+TIMESTAMP: 451000
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 7 squaresVisited: 2
+squaresSince: 11 diff: -5
+23,6,27,east,west,east
+ACTION 319
+TURNS north
+TIMESTAMP: 452000
+23,6,27,north,south,north
+ACTION 320
+MOVES north
+TIMESTAMP: 453000
+prevSquaresVisited: 7 squaresVisited: 3
+squaresSince: 12 diff: -4
+18,11,22,north,south,north
+ACTION 321
+MOVES north
+TIMESTAMP: 454000
+prevSquaresVisited: 7 squaresVisited: 4
+squaresSince: 13 diff: -3
+13,16,17,north,south,north
+ACTION 322
+RESETS 
+TIMESTAMP: 458000
+17,7,27,north,south,north
+ACTION 323
+TURNS east
+TIMESTAMP: 459000
+17,7,27,east,west,east
+ACTION 324
+TURNS south
+TIMESTAMP: 461000
+17,7,27,south,north,south
+ACTION 325
+MOVES south
+TIMESTAMP: 462000
+TOP STATUE CAN'T MOVE OFF SCREEN
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 7 squaresVisited: 1
+squaresSince: 14 diff: -6
+HINT GIVEN
+22,7,27,south,north,south
+ACTION 326
+TURNS west
+TIMESTAMP: 466000
+22,7,27,west,east,west
+ACTION 327
+TURNS north
+TIMESTAMP: 468000
+22,7,27,north,south,north
+ACTION 328
+TURNS east
+TIMESTAMP: 468000
+22,7,27,east,west,east
+ACTION 329
+MOVES east
+TIMESTAMP: 469000
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 1 squaresVisited: 2
+squaresSince: 1 diff: 1
+23,6,27,east,west,east
+ACTION 330
+TURNS south
+TIMESTAMP: 471000
+23,6,27,south,north,south
+ACTION 331
+TURNS west
+TIMESTAMP: 472000
+23,6,27,west,east,west
+ACTION 332
+TURNS north
+TIMESTAMP: 472000
+23,6,27,north,south,north
+ACTION 333
+MOVES north
+TIMESTAMP: 473000
+prevSquaresVisited: 1 squaresVisited: 3
+squaresSince: 2 diff: 2
+18,11,22,north,south,north
+ACTION 334
+TURNS east
+TIMESTAMP: 475000
+18,11,22,east,west,east
+ACTION 335
+TURNS south
+TIMESTAMP: 475000
+18,11,22,south,north,south
+ACTION 336
+TURNS west
+TIMESTAMP: 476000
+18,11,22,west,east,west
+ACTION 337
+TURNS north
+TIMESTAMP: 479000
+18,11,22,north,south,north
+ACTION 338
+TURNS east
+TIMESTAMP: 479000
+18,11,22,east,west,east
+ACTION 339
+MOVES east
+TIMESTAMP: 480000
+TRIES TO MOVE OFFSCREEN
+18,11,22,east,west,east
+ACTION 340
+TURNS south
+TIMESTAMP: 483000
+18,11,22,south,north,south
+ACTION 341
+TURNS west
+TIMESTAMP: 488000
+18,11,22,west,east,west
+ACTION 342
+TURNS north
+TIMESTAMP: 489000
+18,11,22,north,south,north
+ACTION 343
+TURNS east
+TIMESTAMP: 490000
+18,11,22,east,west,east
+ACTION 344
+MOVES east
+TIMESTAMP: 490000
+TRIES TO MOVE OFFSCREEN
+18,11,22,east,west,east
+ACTION 345
+TURNS north
+TIMESTAMP: 492000
+18,11,22,north,south,north
+ACTION 346
+TURNS west
+TIMESTAMP: 493000
+18,11,22,west,east,west
+ACTION 347
+TURNS south
+TIMESTAMP: 494000
+18,11,22,south,north,south
+ACTION 348
+TURNS east
+TIMESTAMP: 495000
+18,11,22,east,west,east
+ACTION 349
+TURNS north
+TIMESTAMP: 496000
+18,11,22,north,south,north
+ACTION 350
+MOVES north
+TIMESTAMP: 498000
+prevSquaresVisited: 1 squaresVisited: 4
+squaresSince: 3 diff: 3
+13,16,17,north,south,north
+ACTION 351
+TURNS west
+TIMESTAMP: 499000
+13,16,17,west,east,west
+ACTION 352
+TURNS south
+TIMESTAMP: 500000
+13,16,17,south,north,south
+ACTION 353
+TURNS east
+TIMESTAMP: 501000
+13,16,17,east,west,east
+ACTION 354
+MOVES east
+TIMESTAMP: 502000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 1 squaresVisited: 5
+squaresSince: 4 diff: 4
+14,16,18,east,west,east
+ACTION 355
+TURNS north
+TIMESTAMP: 503000
+14,16,18,north,south,north
+ACTION 356
+MOVES north
+TIMESTAMP: 507000
+prevSquaresVisited: 1 squaresVisited: 6
+squaresSince: 5 diff: 5
+9,21,13,north,south,north
+ACTION 357
+MOVES north
+TIMESTAMP: 508000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 6 diff: 6
+4,21,8,north,south,north
+ACTION 358
+MOVES north
+TIMESTAMP: 510000
+TRIES TO MOVE OFFSCREEN
+4,21,8,north,south,north
+ACTION 359
+TURNS west
+TIMESTAMP: 511000
+4,21,8,west,east,west
+ACTION 360
+TURNS south
+TIMESTAMP: 511000
+4,21,8,south,north,south
+ACTION 361
+MOVES south
+TIMESTAMP: 512000
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 6 diff: 6
+9,16,13,south,north,south
+ACTION 362
+TURNS east
+TIMESTAMP: 513000
+9,16,13,east,west,east
+ACTION 363
+TURNS north
+TIMESTAMP: 515000
+9,16,13,north,south,north
+ACTION 364
+TURNS west
+TIMESTAMP: 515000
+9,16,13,west,east,west
+ACTION 365
+MOVES west
+TIMESTAMP: 517000
+prevSquaresVisited: 1 squaresVisited: 8
+squaresSince: 7 diff: 7
+8,17,12,west,east,west
+ACTION 366
+MOVES west
+TIMESTAMP: 519000
+prevSquaresVisited: 1 squaresVisited: 9
+squaresSince: 8 diff: 8
+7,18,11,west,east,west
+ACTION 367
+TURNS south
+TIMESTAMP: 519000
+7,18,11,south,north,south
+ACTION 368
+TURNS east
+TIMESTAMP: 521000
+7,18,11,east,west,east
+ACTION 369
+MOVES east
+TIMESTAMP: 522000
+prevSquaresVisited: 1 squaresVisited: 9
+squaresSince: 8 diff: 8
+8,17,12,east,west,east
+ACTION 370
+TURNS north
+TIMESTAMP: 523000
+8,17,12,north,south,north
+ACTION 371
+MOVES north
+TIMESTAMP: 524000
+prevSquaresVisited: 1 squaresVisited: 10
+squaresSince: 9 diff: 9
+3,22,7,north,south,north
+ACTION 372
+TURNS west
+TIMESTAMP: 524000
+3,22,7,west,east,west
+ACTION 373
+MOVES west
+TIMESTAMP: 525000
+TRIES TO MOVE OFFSCREEN
+3,22,7,west,east,west
+ACTION 374
+MOVES west
+TIMESTAMP: 526000
+TRIES TO MOVE OFFSCREEN
+3,22,7,west,east,west
+ACTION 375
+TURNS south
+TIMESTAMP: 527000
+3,22,7,south,north,south
+ACTION 376
+TURNS east
+TIMESTAMP: 527000
+3,22,7,east,west,east
+ACTION 377
+MOVES east
+TIMESTAMP: 528000
+prevSquaresVisited: 1 squaresVisited: 10
+squaresSince: 9 diff: 9
+4,21,8,east,west,east
+ACTION 378
+TURNS north
+TIMESTAMP: 529000
+4,21,8,north,south,north
+ACTION 379
+TURNS west
+TIMESTAMP: 530000
+4,21,8,west,east,west
+ACTION 380
+TURNS south
+TIMESTAMP: 531000
+4,21,8,south,north,south
+ACTION 381
+TURNS east
+TIMESTAMP: 532000
+4,21,8,east,west,east
+ACTION 382
+TURNS north
+TIMESTAMP: 533000
+4,21,8,north,south,north
+ACTION 383
+TURNS west
+TIMESTAMP: 533000
+4,21,8,west,east,west
+ACTION 384
+TURNS south
+TIMESTAMP: 534000
+4,21,8,south,north,south
+ACTION 385
+MOVES south
+TIMESTAMP: 534000
+prevSquaresVisited: 1 squaresVisited: 10
+squaresSince: 9 diff: 9
+9,16,13,south,north,south
+ACTION 386
+TURNS east
+TIMESTAMP: 536000
+9,16,13,east,west,east
+ACTION 387
+TURNS north
+TIMESTAMP: 537000
+9,16,13,north,south,north
+ACTION 388
+TURNS west
+TIMESTAMP: 537000
+9,16,13,west,east,west
+ACTION 389
+MOVES west
+TIMESTAMP: 538000
+prevSquaresVisited: 1 squaresVisited: 10
+squaresSince: 9 diff: 9
+8,17,12,west,east,west
+ACTION 390
+MOVES west
+TIMESTAMP: 539000
+prevSquaresVisited: 1 squaresVisited: 10
+squaresSince: 9 diff: 9
+7,18,11,west,east,west
+ACTION 391
+TURNS south
+TIMESTAMP: 540000
+7,18,11,south,north,south
+ACTION 392
+MOVES south
+TIMESTAMP: 541000
+prevSquaresVisited: 1 squaresVisited: 11
+squaresSince: 10 diff: 10
+12,13,16,south,north,south
+ACTION 393
+MOVES south
+TIMESTAMP: 542000
+prevSquaresVisited: 1 squaresVisited: 12
+squaresSince: 11 diff: 11
+17,8,21,south,north,south
+ACTION 394
+RESETS 
+TIMESTAMP: 547000
+17,7,27,north,south,north
+ACTION 395
+TIME IN HELP SCREEN: 1000
+17,7,27,north,south,north
+ACTION 396
+TURNS west
+TIMESTAMP: 560000
+17,7,27,west,east,west
+ACTION 397
+MOVES west
+TIMESTAMP: 561000
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 1 squaresVisited: 1
+squaresSince: 12 diff: 0
+16,8,27,west,east,west
+ACTION 398
+TURNS south
+TIMESTAMP: 561000
+16,8,27,south,north,south
+ACTION 399
+MOVES south
+TIMESTAMP: 566000
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 1 squaresVisited: 2
+squaresSince: 13 diff: 1
+21,3,27,south,north,south
+ACTION 400
+TURNS east
+TIMESTAMP: 568000
+21,3,27,east,west,east
+ACTION 401
+TURNS north
+TIMESTAMP: 568000
+21,3,27,north,south,north
+ACTION 402
+TURNS west
+TIMESTAMP: 569000
+21,3,27,west,east,west
+ACTION 403
+TURNS south
+TIMESTAMP: 570000
+21,3,27,south,north,south
+ACTION 404
+TURNS east
+TIMESTAMP: 570000
+21,3,27,east,west,east
+ACTION 405
+MOVES east
+TIMESTAMP: 571000
+TOP STATUE CAN'T MOVE OFF SCREEN
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 1 squaresVisited: 3
+squaresSince: 14 diff: 2
+22,3,27,east,west,east
+ACTION 406
+MOVES east
+TIMESTAMP: 572000
+TOP STATUE CAN'T MOVE OFF SCREEN
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 1 squaresVisited: 4
+squaresSince: 1 diff: 3
+23,3,27,east,west,east
+ACTION 407
+TURNS north
+TIMESTAMP: 572000
+23,3,27,north,south,north
+ACTION 408
+MOVES north
+TIMESTAMP: 573000
+prevSquaresVisited: 1 squaresVisited: 5
+squaresSince: 2 diff: 4
+18,8,22,north,south,north
+ACTION 409
+TURNS west
+TIMESTAMP: 575000
+18,8,22,west,east,west
+ACTION 410
+MOVES west
+TIMESTAMP: 575000
+prevSquaresVisited: 1 squaresVisited: 6
+squaresSince: 3 diff: 5
+17,9,21,west,east,west
+ACTION 411
+TURNS south
+TIMESTAMP: 576000
+17,9,21,south,north,south
+ACTION 412
+MOVES south
+TIMESTAMP: 579000
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 1 squaresVisited: 6
+squaresSince: 3 diff: 5
+22,4,21,south,north,south
+ACTION 413
+TURNS east
+TIMESTAMP: 580000
+22,4,21,east,west,east
+ACTION 414
+TURNS north
+TIMESTAMP: 581000
+22,4,21,north,south,north
+ACTION 415
+MOVES north
+TIMESTAMP: 581000
+prevSquaresVisited: 1 squaresVisited: 6
+squaresSince: 3 diff: 5
+17,9,16,north,south,north
+ACTION 416
+TURNS west
+TIMESTAMP: 583000
+17,9,16,west,east,west
+ACTION 417
+TURNS south
+TIMESTAMP: 584000
+17,9,16,south,north,south
+ACTION 418
+TURNS east
+TIMESTAMP: 584000
+17,9,16,east,west,east
+ACTION 419
+MOVES east
+TIMESTAMP: 586000
+prevSquaresVisited: 1 squaresVisited: 6
+squaresSince: 3 diff: 5
+18,8,17,east,west,east
+ACTION 420
+TURNS north
+TIMESTAMP: 587000
+18,8,17,north,south,north
+ACTION 421
+TURNS west
+TIMESTAMP: 587000
+18,8,17,west,east,west
+ACTION 422
+TURNS south
+TIMESTAMP: 588000
+18,8,17,south,north,south
+ACTION 423
+TURNS east
+TIMESTAMP: 588000
+18,8,17,east,west,east
+ACTION 424
+TURNS north
+TIMESTAMP: 588000
+18,8,17,north,south,north
+ACTION 425
+TURNS west
+TIMESTAMP: 590000
+18,8,17,west,east,west
+ACTION 426
+MOVES west
+TIMESTAMP: 591000
+MOVES INTO STATUE
+prevSquaresVisited: 1 squaresVisited: 6
+squaresSince: 3 diff: 5
+18,8,17,west,east,west
+ACTION 427
+TURNS south
+TIMESTAMP: 595000
+18,8,17,south,north,south
+ACTION 428
+TURNS east
+TIMESTAMP: 596000
+18,8,17,east,west,east
+ACTION 429
+TURNS north
+TIMESTAMP: 596000
+18,8,17,north,south,north
+ACTION 430
+TURNS west
+TIMESTAMP: 597000
+18,8,17,west,east,west
+ACTION 431
+TURNS south
+TIMESTAMP: 598000
+18,8,17,south,north,south
+ACTION 432
+MOVES south
+TIMESTAMP: 599000
+prevSquaresVisited: 1 squaresVisited: 6
+squaresSince: 3 diff: 5
+23,3,22,south,north,south
+ACTION 433
+TURNS east
+TIMESTAMP: 600000
+23,3,22,east,west,east
+ACTION 434
+TURNS north
+TIMESTAMP: 601000
+23,3,22,north,south,north
+ACTION 435
+MOVES north
+TIMESTAMP: 603000
+prevSquaresVisited: 1 squaresVisited: 6
+squaresSince: 3 diff: 5
+18,8,17,north,south,north
+ACTION 436
+MOVES north
+TIMESTAMP: 603000
+CRUSHED BY STATUE
+prevSquaresVisited: 1 squaresVisited: 6
+squaresSince: 3 diff: 5
+18,8,17,north,south,north
+ACTION 437
+TURNS west
+TIMESTAMP: 604000
+18,8,17,west,east,west
+ACTION 438
+MOVES west
+TIMESTAMP: 605000
+MOVES INTO STATUE
+prevSquaresVisited: 1 squaresVisited: 6
+squaresSince: 3 diff: 5
+18,8,17,west,east,west
+ACTION 439
+RESETS 
+TIMESTAMP: 607000
+17,7,27,north,south,north
+ACTION 440
+MOVES north
+TIMESTAMP: 610000
+CRUSHED BY STATUE
+prevSquaresVisited: 1 squaresVisited: 0
+squaresSince: 3 diff: -1
+17,7,27,north,south,north
+ACTION 441
+TURNS west
+TIMESTAMP: 611000
+17,7,27,west,east,west
+ACTION 442
+MOVES west
+TIMESTAMP: 612000
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 1 squaresVisited: 1
+squaresSince: 4 diff: 0
+16,8,27,west,east,west
+ACTION 443
+TURNS south
+TIMESTAMP: 612000
+16,8,27,south,north,south
+ACTION 444
+TURNS east
+TIMESTAMP: 613000
+16,8,27,east,west,east
+ACTION 445
+TURNS north
+TIMESTAMP: 614000
+16,8,27,north,south,north
+ACTION 446
+MOVES north
+TIMESTAMP: 615000
+prevSquaresVisited: 1 squaresVisited: 2
+squaresSince: 5 diff: 1
+11,13,22,north,south,north
+ACTION 447
+TURNS west
+TIMESTAMP: 616000
+11,13,22,west,east,west
+ACTION 448
+MOVES west
+TIMESTAMP: 617000
+prevSquaresVisited: 1 squaresVisited: 3
+squaresSince: 6 diff: 2
+10,14,21,west,east,west
+ACTION 449
+TURNS south
+TIMESTAMP: 618000
+10,14,21,south,north,south
+ACTION 450
+MOVES south
+TIMESTAMP: 618000
+TRIES TO MOVE OFFSCREEN
+10,14,21,south,north,south
+ACTION 451
+TURNS east
+TIMESTAMP: 620000
+10,14,21,east,west,east
+ACTION 452
+TURNS north
+TIMESTAMP: 620000
+10,14,21,north,south,north
+ACTION 453
+MOVES north
+TIMESTAMP: 620000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 1 squaresVisited: 4
+squaresSince: 7 diff: 3
+5,14,16,north,south,north
+ACTION 454
+MOVES north
+TIMESTAMP: 621000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 1 squaresVisited: 5
+squaresSince: 8 diff: 4
+0,14,11,north,south,north
+ACTION 455
+TURNS west
+TIMESTAMP: 624000
+0,14,11,west,east,west
+ACTION 456
+TURNS south
+TIMESTAMP: 626000
+0,14,11,south,north,south
+ACTION 457
+TURNS east
+TIMESTAMP: 626000
+0,14,11,east,west,east
+ACTION 458
+MOVES east
+TIMESTAMP: 627000
+prevSquaresVisited: 1 squaresVisited: 6
+squaresSince: 9 diff: 5
+1,13,12,east,west,east
+ACTION 459
+TURNS north
+TIMESTAMP: 628000
+1,13,12,north,south,north
+ACTION 460
+TURNS west
+TIMESTAMP: 630000
+1,13,12,west,east,west
+ACTION 461
+TURNS south
+TIMESTAMP: 631000
+1,13,12,south,north,south
+ACTION 462
+MOVES south
+TIMESTAMP: 633000
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 10 diff: 6
+6,8,17,south,north,south
+ACTION 463
+TURNS east
+TIMESTAMP: 633000
+6,8,17,east,west,east
+ACTION 464
+MOVES east
+TIMESTAMP: 634000
+CRUSHED BY STATUE
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 10 diff: 6
+6,8,17,east,west,east
+ACTION 465
+TURNS north
+TIMESTAMP: 635000
+6,8,17,north,south,north
+ACTION 466
+TURNS west
+TIMESTAMP: 636000
+6,8,17,west,east,west
+ACTION 467
+MOVES west
+TIMESTAMP: 637000
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 10 diff: 6
+5,9,16,west,east,west
+ACTION 468
+TURNS south
+TIMESTAMP: 638000
+5,9,16,south,north,south
+ACTION 469
+TURNS east
+TIMESTAMP: 639000
+5,9,16,east,west,east
+ACTION 470
+TURNS north
+TIMESTAMP: 639000
+5,9,16,north,south,north
+ACTION 471
+MOVES north
+TIMESTAMP: 640000
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 10 diff: 6
+0,14,11,north,south,north
+ACTION 472
+TURNS west
+TIMESTAMP: 642000
+0,14,11,west,east,west
+ACTION 473
+TURNS south
+TIMESTAMP: 643000
+0,14,11,south,north,south
+ACTION 474
+MOVES south
+TIMESTAMP: 644000
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 10 diff: 6
+5,9,16,south,north,south
+ACTION 475
+TURNS east
+TIMESTAMP: 645000
+5,9,16,east,west,east
+ACTION 476
+MOVES east
+TIMESTAMP: 646000
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 10 diff: 6
+6,8,17,east,west,east
+ACTION 477
+TURNS north
+TIMESTAMP: 647000
+6,8,17,north,south,north
+ACTION 478
+MOVES north
+TIMESTAMP: 647000
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 0 diff: 6
+1,13,12,north,south,north
+ACTION 479
+TURNS west
+TIMESTAMP: 649000
+1,13,12,west,east,west
+ACTION 480
+MOVES west
+TIMESTAMP: 649000
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 0 diff: 6
+0,14,11,west,east,west
+ACTION 481
+TURNS south
+TIMESTAMP: 650000
+0,14,11,south,north,south
+ACTION 482
+MOVES south
+TIMESTAMP: 650000
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 0 diff: 6
+5,9,16,south,north,south
+ACTION 483
+TURNS east
+TIMESTAMP: 651000
+5,9,16,east,west,east
+ACTION 484
+MOVES east
+TIMESTAMP: 652000
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 0 diff: 6
+6,8,17,east,west,east
+ACTION 485
+MOVES east
+TIMESTAMP: 653000
+CRUSHED BY STATUE
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 0 diff: 6
+6,8,17,east,west,east
+ACTION 486
+TURNS north
+TIMESTAMP: 654000
+6,8,17,north,south,north
+ACTION 487
+MOVES north
+TIMESTAMP: 654000
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 0 diff: 6
+1,13,12,north,south,north
+ACTION 488
+TURNS west
+TIMESTAMP: 655000
+1,13,12,west,east,west
+ACTION 489
+MOVES west
+TIMESTAMP: 656000
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 0 diff: 6
+0,14,11,west,east,west
+ACTION 490
+TURNS south
+TIMESTAMP: 657000
+0,14,11,south,north,south
+ACTION 491
+TURNS east
+TIMESTAMP: 657000
+0,14,11,east,west,east
+ACTION 492
+MOVES east
+TIMESTAMP: 658000
+prevSquaresVisited: 1 squaresVisited: 7
+squaresSince: 0 diff: 6
+1,13,12,east,west,east
+ACTION 493
+TURNS north
+TIMESTAMP: 659000
+1,13,12,north,south,north
+ACTION 494
+TURNS west
+TIMESTAMP: 659000
+1,13,12,west,east,west
+ACTION 495
+ENDS GAME
+TIMESTAMP: 660000
+END GAME - ABORT
+TIME IN FIRST HELP SCREEN: 3000
+HELP SCREEN ACCESSED: 1
+ACTIONS: 495
+TURNS: 303
+TURNC: 58
+TURNCC: 245
+MOVES: 183
+RESETS: 7
+HINTS: 2
+MOVES OFF BOARD: 29
+MOVES INTO STATUE: 3
+PLAYER AND STATUE ON SAME SQUARE: 9
+STATUES MOVE ONTO SAME SQUARE: 0
+STATUES BLOCK EACH OTHER: 0
+TOP STATUE EDGE OF BOARD: 22
+BOTTOM STATUE EDGE OF BOARD: 16
+TIMESTAMP: 660000

@@ -1,0 +1,213 @@
+ACTION 0
+17,7,27,north,south,north
+ACTION 1
+TURNS east
+TIMESTAMP: 3000
+17,7,27,east,west,east
+ACTION 2
+TURNS south
+TIMESTAMP: 4000
+17,7,27,south,north,south
+ACTION 3
+TURNS west
+TIMESTAMP: 4000
+17,7,27,west,east,west
+ACTION 4
+MOVES west
+TIMESTAMP: 5000
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 2
+squaresSince: 1 diff: -28
+16,8,27,west,east,west
+ACTION 5
+TURNS north
+TIMESTAMP: 8000
+16,8,27,north,south,north
+ACTION 6
+TURNS east
+TIMESTAMP: 9000
+16,8,27,east,west,east
+ACTION 7
+TURNS south
+TIMESTAMP: 10000
+16,8,27,south,north,south
+ACTION 8
+MOVES south
+TIMESTAMP: 10000
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 3
+squaresSince: 2 diff: -27
+21,3,27,south,north,south
+ACTION 9
+TURNS east
+TIMESTAMP: 13000
+21,3,27,east,west,east
+ACTION 10
+TURNS north
+TIMESTAMP: 13000
+21,3,27,north,south,north
+ACTION 11
+TURNS west
+TIMESTAMP: 14000
+21,3,27,west,east,west
+ACTION 12
+TURNS south
+TIMESTAMP: 14000
+21,3,27,south,north,south
+ACTION 13
+TURNS east
+TIMESTAMP: 14000
+21,3,27,east,west,east
+ACTION 14
+MOVES east
+TIMESTAMP: 16000
+TOP STATUE CAN'T MOVE OFF SCREEN
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 4
+squaresSince: 3 diff: -26
+22,3,27,east,west,east
+ACTION 15
+MOVES east
+TIMESTAMP: 29000
+TOP STATUE CAN'T MOVE OFF SCREEN
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 5
+squaresSince: 4 diff: -25
+23,3,27,east,west,east
+ACTION 16
+TURNS north
+TIMESTAMP: 31000
+23,3,27,north,south,north
+ACTION 17
+MOVES north
+TIMESTAMP: 32000
+prevSquaresVisited: 30 squaresVisited: 6
+squaresSince: 5 diff: -24
+18,8,22,north,south,north
+ACTION 18
+TURNS east
+TIMESTAMP: 36000
+18,8,22,east,west,east
+ACTION 19
+TURNS south
+TIMESTAMP: 36000
+18,8,22,south,north,south
+ACTION 20
+TURNS west
+TIMESTAMP: 37000
+18,8,22,west,east,west
+ACTION 21
+MOVES west
+TIMESTAMP: 38000
+prevSquaresVisited: 30 squaresVisited: 6
+squaresSince: 5 diff: -24
+17,9,21,west,east,west
+ACTION 22
+TURNS north
+TIMESTAMP: 40000
+17,9,21,north,south,north
+ACTION 23
+MOVES north
+TIMESTAMP: 41000
+prevSquaresVisited: 30 squaresVisited: 7
+squaresSince: 6 diff: -23
+12,14,16,north,south,north
+ACTION 24
+MOVES north
+TIMESTAMP: 42000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 8
+squaresSince: 7 diff: -22
+7,14,11,north,south,north
+ACTION 25
+TURNS west
+TIMESTAMP: 45000
+7,14,11,west,east,west
+ACTION 26
+MOVES west
+TIMESTAMP: 46000
+TOP STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 9
+squaresSince: 8 diff: -21
+6,14,10,west,east,west
+ACTION 27
+TURNS north
+TIMESTAMP: 49000
+6,14,10,north,south,north
+ACTION 28
+TURNS east
+TIMESTAMP: 52000
+6,14,10,east,west,east
+ACTION 29
+TURNS south
+TIMESTAMP: 53000
+6,14,10,south,north,south
+ACTION 30
+MOVES south
+TIMESTAMP: 54000
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 10
+squaresSince: 9 diff: -20
+11,9,10,south,north,south
+ACTION 31
+MOVES south
+TIMESTAMP: 54000
+BOTTOM STATUE CAN'T MOVE OFF SCREEN
+prevSquaresVisited: 30 squaresVisited: 10
+squaresSince: 9 diff: -20
+16,4,10,south,north,south
+ACTION 32
+TURNS east
+TIMESTAMP: 56000
+16,4,10,east,west,east
+ACTION 33
+TURNS north
+TIMESTAMP: 57000
+16,4,10,north,south,north
+ACTION 34
+TURNS west
+TIMESTAMP: 57000
+16,4,10,west,east,west
+ACTION 35
+TURNS south
+TIMESTAMP: 57000
+16,4,10,south,north,south
+ACTION 36
+TURNS east
+TIMESTAMP: 58000
+16,4,10,east,west,east
+ACTION 37
+MOVES east
+TIMESTAMP: 59000
+prevSquaresVisited: 30 squaresVisited: 10
+squaresSince: 9 diff: -20
+17,3,11,east,west,east
+ACTION 38
+TURNS north
+TIMESTAMP: 60000
+17,3,11,north,south,north
+ACTION 39
+MOVES north
+TIMESTAMP: 68000
+prevSquaresVisited: 30 squaresVisited: 10
+squaresSince: 9 diff: -20
+12,8,6,north,south,north
+
+END GAME - WIN
+TIME IN FIRST HELP SCREEN: 1000
+HELP SCREEN ACCESSED: 0
+ACTIONS: 39
+TURNS: 26
+TURNC: 13
+TURNCC: 13
+MOVES: 13
+RESETS: 0
+HINTS: 0
+MOVES OFF BOARD: 0
+MOVES INTO STATUE: 0
+PLAYER AND STATUE ON SAME SQUARE: 0
+STATUES MOVE ONTO SAME SQUARE: 0
+STATUES BLOCK EACH OTHER: 0
+TOP STATUE EDGE OF BOARD: 4
+BOTTOM STATUE EDGE OF BOARD: 6
+TIMESTAMP: 68000
